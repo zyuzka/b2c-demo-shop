@@ -167,7 +167,8 @@
     "spryker/urls-rest-api": "^1.0.1",
     "spryker/uuid": "^1.0",
     "spryker/wishlists-rest-api": "^1.4.1",
-    "swiftmailer/swiftmailer": "^5.4.12"
+    "swiftmailer/swiftmailer": "^5.4.12",
+    "symfony/mime": "^5.0.0"
   },
   "require-dev": {
     "codeception/codeception": "^2.3.8",

@@ -5,7 +5,7 @@
           namespace="Orm\Zed\FileManagerStorage\Persistence"
           package="src.Orm.Zed.FileManagerStorage.Persistence">
 
-    <table name="spy_file_storage">
+    <table name="spy_file_storage" identifierQuoting="true">
         <behavior name="synchronization">
             <parameter name="queue_pool" value="synchronizationPool"/>
         </behavior>
